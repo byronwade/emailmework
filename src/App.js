@@ -23,7 +23,7 @@ function App() {
           </Example>
         </Section>
 
-        {/* MMENU SECTION */}
+        {/* MENU SECTION */}
         <Section title={`Menu Section`} sub={`This area shows all the diffrent menus we will use.`} >
           <Example title={`Not a Default Button<`} sub={`This button is the default for all the pages.`}>
             <Button type="primary">hi</Button>
